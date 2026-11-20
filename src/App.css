@@ -1,0 +1,23 @@
+.btn {
+    font-size: 16px;
+    border-radius: 999px;
+    border: 1px solid #1C1A18;
+}
+
+.btn--small {
+    padding: 8px 20px;
+}
+
+.btn--large {
+    padding: 12px 24px;
+}
+
+.btn--primary {
+    background-color: #1C1A18;
+    color: #ffffff;
+}
+
+.btn--seondary {
+    background-color: transparent;
+    color: #1C1A18;
+}
