@@ -1,0 +1,6 @@
+function Title({ title, className = "" }) {
+    return (
+        <h2 className={`${className} title`}>{title}</h2>
+    )
+}
+export default Title
